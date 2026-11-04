@@ -219,4 +219,4 @@ Ghidra is available as a completely free version with all features and updates i
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-04 01:50:49 UTC
+**Last updated:** 2026-11-04 08:30:15 UTC
